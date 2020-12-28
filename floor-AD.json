@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/coridor2.json#exit"
+                 "value":"\/coridor.json#exit"
                 }],
          "type":"tilelayer",
          "visible":true,
