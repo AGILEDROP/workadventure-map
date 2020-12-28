@@ -82,8 +82,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":3,
          "firstgid":1,
-         "source":"AD_logo.tsx"
+         "image":"AD_logo.png",
+         "imageheight":100,
+         "imagewidth":100,
+         "margin":0,
+         "name":"AD_logo",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":14,
@@ -192,6 +201,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":14,
+         "firstgid":364,
+         "image":"sheet.png",
+         "imageheight":490,
+         "imagewidth":980,
+         "margin":0,
+         "name":"sheet",
+         "spacing":0,
+         "tilecount":98,
+         "tileheight":70,
+         "tilewidth":70
         }],
  "tilewidth":32,
  "type":"map",
